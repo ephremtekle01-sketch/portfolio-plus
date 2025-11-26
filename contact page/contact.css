@@ -1,0 +1,25 @@
+#contact {
+    padding: 70px 0;
+}
+
+.contact-card {
+    padding: 25px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(0, 238, 255, 0.3);
+    width: fit-content;
+}
+
+.contact-card p {
+    font-size: 20px;
+    margin: 12px 0;
+}
+
+.contact-btn {
+    margin-top: 20px;
+    padding: 10px 22px;
+    font-size: 20px;
+    border: 2px solid #00eeff;
+    border-radius: 8px;
+    color: #00eeff;
+}
